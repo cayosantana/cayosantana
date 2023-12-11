@@ -1,7 +1,7 @@
 # Cayo Santana 
 ### Frontend Developer & UI/UX Designer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-F7DF1E?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/cayosantana/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-F7DF1E?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/cayosantana/) [![Gmail](https://img.shields.io/badge/Gmail-F7DF1E?style=for-the-badge&logo=gmail&logoColor=black)](mailto:cc.santana.js@gmail.com)
 
 Sou um UX/UI Designer com habilidades em Desenvolvimento front-end. Minha formação acadêmica e experiência em design me ajuda a criar interfaces de usuário intuitivas e agradáveis, enquanto minhas habilidades em desenvolvimento front-end que venho adquirindo através de cursos online, me permitem transformar esses designs em códigos funcionais. 
 
